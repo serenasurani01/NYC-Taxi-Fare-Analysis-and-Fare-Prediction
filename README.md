@@ -2,7 +2,7 @@
 
 **Taxi Project** explores the relationship between ride features and pricing using regression models to predict fare prices. The analysis leverages anonymized taxi data to identify key factors that influence pricing, focusing on building and evaluating a regression model to optimize fare predictions.
 
----
+
 
 ## 1. Regression Model
 
@@ -27,7 +27,7 @@ We selected a multiple linear regression model to understand the linear relation
 
 The dataset was split into training and testing sets, with 70% of the data used for training and 30% for testing. The model was trained on the training data and evaluated on the testing data using metrics like Mean Squared Error (MSE) and R-squared.
 
----
+
 
 ## 2. Results
 
@@ -54,7 +54,7 @@ The dataset was split into training and testing sets, with 70% of the data used 
 
 ![image](https://github.com/user-attachments/assets/4e6dba15-83f8-49a2-9758-b2ee5f02f8ea)
 
----
+
 
 ## 3. Recommendations & Next Steps
 
